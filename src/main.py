@@ -1,8 +1,8 @@
-from src.models.Nodo import *
+from models import *
 
 
 def main():
-    print("Inicio del proyecto :D")
+    print("Test")
 
 
 if __name__ == '__main__':
