@@ -1,4 +1,4 @@
-from nodos import *
+from src.models.Nodo import *
 
 
 def main():
